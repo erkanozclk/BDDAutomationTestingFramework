@@ -9,7 +9,7 @@ public class Login {
 
     public Login(){
 
-        // PageFactory.initElements(WebDriver,this);
+      //   PageFactory.initElements(driver,this);
     }
 
     @FindBy(id = "inputEmail")

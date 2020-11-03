@@ -1,7 +1,8 @@
-package utils.ui;
+package utils.ui.implementations;
 
 
 import utils.pages.Login;
+import utils.ui.service.Serviceable;
 
 public class DesktopImp implements Serviceable {
 

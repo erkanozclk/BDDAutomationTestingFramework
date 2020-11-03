@@ -3,8 +3,8 @@ package Glue;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import utils.config.ConfigurationReader;
-import utils.ui.DesktopImp;
-import utils.ui.Serviceable;
+import utils.ui.implementations.DesktopImp;
+import utils.ui.service.Serviceable;
 
 
 public class AllSteps {
